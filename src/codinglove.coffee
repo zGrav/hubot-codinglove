@@ -10,7 +10,7 @@
 #   None
 #
 # Commands:
-#   hubot [give me some] joy [asshole] - Return a random meme (coding love)
+#   hubot [give me some] joy [dude] - Return a random meme (coding love)
 #   hubot last joy - Returns last meme (coding love)
 #   hubot [spread some] love - Return a random meme (coding love)
 #   hubot last love - Returns last meme (coding love)
